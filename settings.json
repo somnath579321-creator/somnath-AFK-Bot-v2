@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CRISTEL_SMP.aternos.me",
+    "ip": "auracraftmc.aternos.me",
     "port": 20019,
     "version": "1.21.1"
   },
